@@ -11326,25 +11326,25 @@ Footer Style Two
 
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .portfolio {
-    min-height: 500px;
+    min-height: 325px;
   }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .portfolio {
-    min-height: 500px;
+    min-height: 325px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .portfolio {
-    min-height: 450px;
+    min-height: 275px;
   }
 }
 
 @media only screen and (max-width: 767px) {
   .portfolio {
-    min-height: 400px;
+    min-height: 225px;
   }
 }
 
@@ -13531,7 +13531,7 @@ Slider Styles
   font-family: 'Montserrat', sans-serif;
   line-height: 90px;
   text-transform: inherit;
-  width: 80%;
+  width: 70%;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -16936,7 +16936,7 @@ BLog Details Styles
 
 .active-dark .bg_image--25 {
   /* background-color: #101010; */
-  background-image: url(../images/bg/leaves.jpg);
+  background-image: url(../images/bg/new.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
