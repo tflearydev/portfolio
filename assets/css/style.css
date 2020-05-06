@@ -11319,7 +11319,7 @@ Footer Style Two
 
 .portfolio {
   position: relative;
-  min-height: 600px;
+  min-height: 500px;
   width: 100%;
   padding-top: 35%;
 }
@@ -11332,19 +11332,19 @@ Footer Style Two
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .portfolio {
-    min-height: 325px;
+    min-height: 300px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .portfolio {
-    min-height: 275px;
+    min-height: 250px;
   }
 }
 
 @media only screen and (max-width: 767px) {
   .portfolio {
-    min-height: 225px;
+    min-height: 300px;
   }
 }
 
@@ -13540,10 +13540,15 @@ Slider Styles
   }
 }
 
-.my-width {
-  width: 60px !important;
+
+  .my-width {
+  width: 70px !important;
   height: 60px !important;
+  margin-top: 5px !important;
 }
+
+
+
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .slide.slider-style-3 .inner h1.title {
